@@ -1,0 +1,64 @@
+{
+[
+        {
+          name: 'Пасічник Є.С.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Антонюк Є.М.',
+          year: 2002,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Ваколюк В.В.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Корольчук А.М.',
+          year: 2002,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Костюшко О.А.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Кухта С.П.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Лобода А.О.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Луцюк М.І.',
+          year: 2000,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Мельник М.В.',
+          year: 2001,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        },
+        {
+          name: 'Пляка С.П.',
+          year: 2002,
+          phone: '(+380) 564 377 27',
+          email: 'frozen@email.com'
+        }
+      ]
+}
